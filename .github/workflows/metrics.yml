@@ -19,7 +19,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
@@ -31,12 +31,12 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.habits.charts.svg
+          filename: metrics.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
           plugin_habits_facts: no
-          plugin_habits_charts: yes
+          plugin_habits_charts: no
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           config_timezone: Europe/Paris
           output_action: pull-request
@@ -45,7 +45,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.achievements.svg
+          filename: metrics.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
