@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chutified)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chutified&count_private=true&show_icons=true&theme=graywhite)
+
 
 <!--
 Here are some ideas to get you started:
