@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chutified&count_private=true&show_icons=true&theme=default&include_all_commits=true&line_height=30)
+![Tommy Chu](img/banner.svg)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chutified&count_private=true&show_icons=true&theme=graywhite&include_all_commits=true&line_height=30)
 
