@@ -8,9 +8,6 @@
 
 ![Commit Streak](http://github-readme-streak-stats.herokuapp.com?user=chutified&theme=graywhite)
 
-![Achievements](metrics.achievements.svg)
-
-![Habits](metrics.habits.svg)
-
 ![Isocalendar](metrics.isocalendar.svg)
 
+![Achievements](metrics.achievements.svg)
