@@ -1,4 +1,4 @@
-# Hey there, I'm Tommy :raised_hand_with_fingers_splayed::sunglasses:
+# Hi there :raised_hand_with_fingers_splayed::sunglasses:
 
 ![Tommy Chu](img/banner.svg)
 
