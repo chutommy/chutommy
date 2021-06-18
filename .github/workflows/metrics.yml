@@ -16,7 +16,7 @@ jobs:
 
       - name: 📅 Isocalendar plugin
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -28,7 +28,7 @@ jobs:
         
       - name: 💡 Habits plugin
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugins.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -42,7 +42,7 @@ jobs:
           
       - name: 🏆 Achievements
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugins.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
