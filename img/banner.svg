@@ -38,8 +38,8 @@
      inkscape:snap-center="true"
      inkscape:snap-page="true"
      inkscape:zoom="0.63372384"
-     inkscape:cx="346.00269"
-     inkscape:cy="278.94"
+     inkscape:cx="874.62412"
+     inkscape:cy="275.78405"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -76,15 +76,15 @@
      style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.180445;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.25221825px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.28387782"
-     x="15.346367"
-     y="70.18615"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:34.77496719px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.36224174"
+     x="15.204126"
+     y="72.610374"
      id="text896"
      transform="scale(1.0076615,0.99239676)"><tspan
        id="tspan894"
-       x="15.346367"
-       y="70.18615"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.25221825px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;fill:#0d0d0d;fill-opacity:1;stroke-width:0.28387782">Hi, I'm Tommy.</tspan></text>
+       x="15.204126"
+       y="72.610374"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:34.77496719px;font-family:Lato;-inkscape-font-specification:'Lato, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0d0d0d;fill-opacity:1;stroke-width:0.36224174">Hi, I'm Tommy.</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:10.58329964px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458299"
@@ -106,14 +106,14 @@
     </script>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:13.03715706px;line-height:1.25;font-family:sans-serif;fill:#272727;fill-opacity:1;stroke:none;stroke-width:0.32592952;"
-     x="17.072977"
-     y="88.16964"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.22728252px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.30568528"
+     x="17.077026"
+     y="95.510757"
      id="text1188"><tspan
        id="tspan1186"
-       x="17.072977"
-       y="88.16964"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.03715706px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;fill:#272727;fill-opacity:1;stroke-width:0.32592952;">tech enthusiast</tspan></text>
+       x="17.077026"
+       y="95.510757"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.22728252px;font-family:Lato;-inkscape-font-specification:'Lato, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0d0d0d;fill-opacity:1;stroke-width:0.30568528">software engineer &amp;&amp; tech enthusiast</tspan></text>
   <g
      id="g18069"
      transform="matrix(1.2253091,0,0,1.2253091,-217.35832,-32.327086)">
