@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="558.59698" viewBox="0 0 285.75 147.79545" version="1.1">
+    <metadata>image/svg+xml</metadata>
+    <g transform="translate(0,-149.20455)">
+        <g transform="matrix(0.9525,0,0,0.9525,3.9968481e-7,79.512414)">
+            <rect style="fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.570849;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+                  width="300" height="155.16589" x="-4.196167e-07" y="73.167564" ry="33.301525" rx="33.301525"/>
+            <text y="190.52126" x="34.973381"
+                  style="font-style:normal;font-weight:normal;font-size:109.18530273px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:2.72963262"
+                  xml:space="preserve"><tspan style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:109.18530273px;font-family:Lato;-inkscape-font-specification:'Lato, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke-width:2.72963262" y="190.52126" x="34.973381">CHU</tspan></text>
+        </g>
+    </g>
+</svg> 
