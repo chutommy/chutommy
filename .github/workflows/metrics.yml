@@ -9,14 +9,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
       - name: 📅 Isocalendar plugin
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -25,10 +25,11 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
+          delay: 120
         
       - name: 💡 Habits plugin
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugins.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -39,10 +40,11 @@ jobs:
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           config_timezone: Europe/Paris
           output_action: pull-request
+          delay: 120
           
       - name: 🏆 Achievements
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.plugins.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -51,3 +53,4 @@ jobs:
           plugin_achievements_only: polyglot, stargazer, developer, contributor, octonaut
           plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           output_action: pull-request
+          delay: 120
